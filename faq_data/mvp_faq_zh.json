@@ -1,0 +1,27 @@
+[
+  {
+    "question": "畢業後要如何申請居留證？",
+    "answer": "你需要在畢業後15天內申請 ARC 延長。請攜帶畢業證書、護照、現有 ARC 及申請表，前往當地移民署辦公室。",
+    "official_link": "https://www.immigration.gov.tw/"
+  },
+  {
+    "question": "我可以在學生簽證下打工嗎？",
+    "answer": "可以，但需要申請工讀工作許可，並且不能影響你的課業。",
+    "official_link": "https://ezwp.wda.gov.tw/"
+  },
+  {
+    "question": "外國人怎麼加入台灣的健保？",
+    "answer": "在台居住6個月（或就業）後即可加入健保。由學校或雇主代辦。",
+    "official_link": "https://www.nhi.gov.tw/"
+  },
+  {
+    "question": "外國人怎麼報稅？",
+    "answer": "每年5月報稅季，需帶 ARC、護照、所得證明及扣除憑證，至國稅局或線上報稅。",
+    "official_link": "https://www.ntb.gov.tw/"
+  },
+  {
+    "question": "台北哪裡可以找到會說英文的醫生？",
+    "answer": "台北醫學大學附設醫院與台大醫院皆有國際門診，可直接用 Google 搜尋「英文友善診所」。",
+    "official_link": "https://english.gov.taipei/"
+  }
+]
