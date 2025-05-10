@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I apply for ARC (Alien Resident Certificate) after graduation?",
+    "answer": "You must apply for an ARC extension within 15 days after graduation. Visit your local NIA (National Immigration Agency) office with your diploma, passport, current ARC, and application form.",
+    "official_link": "https://www.immigration.gov.tw/"
+  },
+  {
+    "question": "Can I work part-time on a student visa in Taiwan?",
+    "answer": "Yes, but you need a work permit. Apply at the Ministry of Labor. The job must not interfere with your studies.",
+    "official_link": "https://ezwp.wda.gov.tw/"
+  },
+  {
+    "question": "How do I enroll in Taiwan’s National Health Insurance?",
+    "answer": "After staying in Taiwan for 6 months (or being employed), you are eligible. Apply through your school or employer.",
+    "official_link": "https://www.nhi.gov.tw/"
+  },
+  {
+    "question": "How do I file taxes as a foreigner in Taiwan?",
+    "answer": "Every year from May 1–May 31. Go to the local tax office or file online. Bring ARC, passport, income statement, and deductions.",
+    "official_link": "https://www.ntb.gov.tw/"
+  },
+  {
+    "question": "Where can I find an English-speaking doctor in Taipei?",
+    "answer": "Taipei Medical University Hospital and NTU Hospital both have international departments. Or search 'foreign-friendly clinic Taipei' on Google Maps.",
+    "official_link": "https://english.gov.taipei/"
+  }
+]
