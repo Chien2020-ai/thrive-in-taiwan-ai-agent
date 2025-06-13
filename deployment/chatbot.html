@@ -4,6 +4,25 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Thrive in Taiwan AI Agent</title>
+  <!-- Amplitude Analytics SDK -->
+<script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script>
+
+<!-- Amplitude Session Replay Plugin -->
+<script src="https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.8.0-min.js.gz"></script>
+
+<!-- Amplitude Initialization -->
+<script>
+  // 啟用 Session Replay 插件
+  window.amplitude.add(window.sessionReplay.plugin({ sampleRate: 1 }));
+
+  // 初始化 Amplitude，啟用 AutoCapture 點擊追蹤
+  window.amplitude.init('1da0aa9e4c96546eac0087cc63baa2a5', {
+    autocapture: {
+      elementInteractions: true
+    }
+  });
+</script>
+
 </head>
 <body style="font-family: sans-serif; padding: 2rem; background: #f4f4f4;">
   <h1>🌏 Thrive in Taiwan – AI Assistant</h1>
